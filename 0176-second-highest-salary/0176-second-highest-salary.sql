@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select ifnull((select DISTINCT salary from employee where salary <(select DISTINCT salary from employee order by salary desc limit 1) order by salary desc limit 1),null)as SecondHighestSalary;
