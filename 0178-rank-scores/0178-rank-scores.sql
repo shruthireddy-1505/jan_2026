@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select s1.score,count(DISTINCT s2.score) + 1 as `rank` from scores as s1 left join scores as s2 on s2.score>s1.score group by s1.id,s1.score order by `rank` asc;
