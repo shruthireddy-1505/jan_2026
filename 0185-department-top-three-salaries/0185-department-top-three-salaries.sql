@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select d.name as Department,e.name as employee,e.salary from employee as e left join department as d on e.departmentId=d.id left join employee as e2 on e.departmentId=e2.departmentId and e2.salary>e.salary group by e.id having count(distinct e2.salary)<3 order by e.departmentId asc;
