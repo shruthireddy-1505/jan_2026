@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/shruthireddy-1505/jan_2026/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/shruthireddy-1505/jan_2026/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
