@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/shruthireddy-1505/jan_2026/tree/master/1251-average-selling-price) |
 | [1661-average-time-of-process-per-machine](https://github.com/shruthireddy-1505/jan_2026/tree/master/1661-average-time-of-process-per-machine) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/shruthireddy-1505/jan_2026/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Array
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/jan_2026/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/jan_2026/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/jan_2026/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
