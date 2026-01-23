@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shruthireddy-1505/jan_2026/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/shruthireddy-1505/jan_2026/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shruthireddy-1505/jan_2026/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shruthireddy-1505/jan_2026/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shruthireddy-1505/jan_2026/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/shruthireddy-1505/jan_2026/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
