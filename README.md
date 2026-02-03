@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/jan_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/shruthireddy-1505/jan_2026/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/jan_2026/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/jan_2026/tree/master/1004-max-consecutive-ones-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthireddy-1505/jan_2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/jan_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shruthireddy-1505/jan_2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/jan_2026/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/jan_2026/tree/master/1004-max-consecutive-ones-iii) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/jan_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/jan_2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/jan_2026/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -82,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/jan_2026/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/jan_2026/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
