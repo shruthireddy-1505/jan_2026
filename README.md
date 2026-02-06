@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shruthireddy-1505/jan_2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shruthireddy-1505/jan_2026/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruthireddy-1505/jan_2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/shruthireddy-1505/jan_2026/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shruthireddy-1505/jan_2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shruthireddy-1505/jan_2026/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruthireddy-1505/jan_2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/shruthireddy-1505/jan_2026/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shruthireddy-1505/jan_2026/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/jan_2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shruthireddy-1505/jan_2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sorting
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/shruthireddy-1505/jan_2026/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
